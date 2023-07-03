@@ -1,0 +1,11 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    background-image:
+        conic-gradient(from 90deg at 50% 0%, transparent, white, transparent),
+        url("https://raw.githubusercontent.com/trichoplax/hinged-tetromino-image/main/hinged_tetrominoes.svg");
+    background-size: auto, cover;
+}
+
