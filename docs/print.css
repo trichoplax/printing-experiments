@@ -1,8 +1,4 @@
 @page {
-    size: auto;
+    size: A4 landscape;
     margin: 0;
-}
-
-h2 {
-    page-break-before: always;
 }
